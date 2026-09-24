@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /cart
-Disallow: /search
-
-Sitemap: https://wealthyharvest.com/sitemap.xml
